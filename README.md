@@ -22,7 +22,7 @@ A simple tool to turn images into [JACK](https://jackaudio.org/)-Audio streams a
 **Disclaimer:** I've only tested this under Linux, so be warned when trying to use it on other operating systems.
 
 1. **Install Python**
-  To use this, you will need [Python 3.12](https://www.python.org/) and preferrably [uv](https://docs.astral.sh/uv/) as a project manager, though installing dependencies through `venv` should also work.
+  To use this, you will need [Python 3.13](https://www.python.org/) and preferrably [uv](https://docs.astral.sh/uv/) as a project manager, though installing dependencies through `venv` should also work.
 
 2. **Install JACK**
   Follow the installation instructions for your platform:
