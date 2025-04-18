@@ -15,6 +15,7 @@ A simple tool to turn images into [JACK](https://jackaudio.org/)-Audio streams a
 - [ ] Single-channel out/input
 - [ ] Choosable image channels
 - [ ] Saving to file
+- [ ] Proper binary
 
 
 ## Installation
