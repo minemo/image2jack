@@ -1,0 +1,12 @@
+[project]
+name = "image2jackaudio"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jack-client>=0.5.5",
+    "numpy>=2.2.4",
+    "pillow>=11.1.0",
+    "rich>=14.0.0",
+]
