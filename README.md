@@ -4,7 +4,6 @@
 
 A simple tool to turn images into [JACK](https://jackaudio.org/)-Audio streams and back.
 
----
 
 ## Features
 
@@ -13,11 +12,10 @@ A simple tool to turn images into [JACK](https://jackaudio.org/)-Audio streams a
 
 ### TODO
 
-[] Single-channel out/input
-[] Choosable image channels
-[] Saving to file
+- [ ] Single-channel out/input
+- [ ] Choosable image channels
+- [ ] Saving to file
 
----
 
 ## Installation
 
@@ -49,7 +47,6 @@ A simple tool to turn images into [JACK](https://jackaudio.org/)-Audio streams a
   pip install -r requirements.txt
   ```
 
----
 
 ## Usage
 
@@ -60,7 +57,6 @@ Replace `<image_input>` and `<image_output>`_(Placeholder)_ with your respective
 This will send each of your images channels as a seperate audio-stream and try to send them to [Cardinal](https://cardinal.kx.studio/) by default.
 To change which program it will send the audio to, either remove the `-a` flag, or change the regex pattern via `--cinpat` and `--coutpat`.
 
----
 
 ## License
 
